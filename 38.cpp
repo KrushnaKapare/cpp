@@ -32,7 +32,6 @@ class person
 
 // derived class
 // child class
-
 class emp : public person
 {
 	int sal;
